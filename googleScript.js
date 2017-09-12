@@ -1,5 +1,6 @@
 // FrameBust Offer Letter Script
 // Read more here: https://medium.com/p/b2497b2ef7c7
+// Or here: https://docs.google.com/document/d/15d7_HJ1lPpRqoaF41JH2vTjalu-SlyzGWN2MCcdDrhc/edit?usp=sharing
 
 // ID for template, source, target folder
 var templateFileId = "INSERT TEMPLATE FILE ID";
