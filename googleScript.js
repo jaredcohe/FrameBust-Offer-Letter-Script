@@ -2,9 +2,9 @@
 // Read more here: https://medium.com/p/b2497b2ef7c7
 
 // ID for template, source, target folder
-var templateFileId = "1KLxr8sDwStTyYUXftNz7k6y8YCfizLSpNH0UBFZb944";
-var sourceDataFileId = "1HKug8-s_ZjIjKGUvaVLQxU6yrSy4APO3utj4wCW89u8";
-var targetFolderId = "0B1F-5fwPmkDoZzRzWkZ6ZWd2bzg";
+var templateFileId = "INSERT TEMPLATE FILE ID";
+var sourceDataFileId = "INSERT SPREADSHEET FILE ID";
+var targetFolderId = "INSERT GOOGLE DRIVE FOLDER ID FOR WHERE TO PUT OUTPUT";
 
 // Get data as array of arrays
 function getDataAsArrayOfArrays() {
