@@ -1,5 +1,5 @@
 // FrameBust Offer Letter Script
-// Read more here: https://medium.com/p/b2497b2ef7c7
+// Read more here: https://opsmba.com/2017/09/12/how-to-automate-filling-out-google-doc-templates/
 // Or here: https://docs.google.com/document/d/15d7_HJ1lPpRqoaF41JH2vTjalu-SlyzGWN2MCcdDrhc/edit?usp=sharing
 
 // ID for template, source, target folder
